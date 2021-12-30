@@ -81,7 +81,7 @@ function myFunction() {
 											<li><a href="http://mehakgarments.business.site/" class="icon brands fas fa-shopping-bag alt"></a></li>
 										</ul>
 									</div>
-									<span class="image"><img src="images/myimage.jpg" alt=""  height="500" wider="400"/></span>
+									<span class="image"><img src="images/myimage.jpg" alt=""  height="500" wider="500"/></span>
 								</div>
 							</section>
 							
